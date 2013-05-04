@@ -8,7 +8,7 @@ import random
 import nltk
 
 
-data_file = '../data/processed/cutted_equal_closed_open.csv'
+data_file = '/media/software/data/processed/cutted_equal_closed_open.csv'
 out_file = '/media/software/data/processed/token'
 
 
