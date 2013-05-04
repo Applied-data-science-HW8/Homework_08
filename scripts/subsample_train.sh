@@ -1,6 +1,5 @@
 DATA=/media/software/data/processed
 #DATA=../data/raw
-OUTFILE=../data/processed
 SRC=../src
 
 time python $SRC/subsample.py -n 70136 $DATA/onlyopen.csv > $DATA/equal_closed_open.csv
